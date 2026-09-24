@@ -1,0 +1,8 @@
+{
+  "name": "بيئة الأدوات | OmniMedia Studio",
+  "description": "منصة أدوات رقمية سريعة ومتقدمة لمعالجة الصور، ضغط الوسائط، تصميم رموز QR، واستخراج الألوان وتجميع المستندات محلياً وبكل أمان.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
